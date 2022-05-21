@@ -3,7 +3,7 @@
 
 #include "cmark-gfm-core-extensions.h"
 
-
+CMARK_GFM_EXTENSIONS_EXPORT
 extern cmark_node_type CMARK_NODE_TABLE, CMARK_NODE_TABLE_ROW,
     CMARK_NODE_TABLE_CELL;
 
